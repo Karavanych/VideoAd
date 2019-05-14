@@ -1,8 +1,8 @@
 {
 	"VideoUrl1" : "https://github.com/Karavanych/VideoAd/blob/master/adVideo1.mp4?raw=true",
 	"VideoUrl2" : "https://github.com/Karavanych/VideoAd/blob/master/adVideo2.mp4?raw=true",
-	"GooglePlayUrl1" : "https://play.google.com/store/apps/details?id=helix.cookie.jump",
-	"GooglePlayUrl2" : "https://play.google.com/store/apps/details?id=helix.cookie.jump",
+	"GooglePlayUrl1" : "helix.cookie.jump",
+	"GooglePlayUrl2" : "helix.cookie.jump",
 	"GameName1" : "Helix Cookie",
 	"GameName2" : "Helix Cookie"
 }
